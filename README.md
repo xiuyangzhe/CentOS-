@@ -16,8 +16,8 @@
 ### 2.解压
 `tar -xvf node-v11.0.0.tar.gz`
 ### 3.进入目录安装相关插件
-`cd node-v11.0.0`
-`sudo yum install gcc gcc-c++`
+`cd node-v11.0.0`  
+`yum install gcc gcc-c++`
 ### 4.默认配置编译
 `./configure`
 `make`
