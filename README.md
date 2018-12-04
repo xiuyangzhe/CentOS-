@@ -25,3 +25,7 @@
 `make install`
 ### 6.查看版本
 `node -v`
+
+
+## git安装
+`yum install git`
