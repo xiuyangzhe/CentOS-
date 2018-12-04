@@ -5,7 +5,7 @@
 ### 1.下载CentOS7 DVD版本
 ### 2.虚拟机安装
 ### 3.配置网络
-`vi /etc/sysconfig/network-scripts/ifcfg-ens33`>
+`vi /etc/sysconfig/network-scripts/ifcfg-ens33`  
 修改 `ONBOOT=yes`
 
 
